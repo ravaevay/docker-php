@@ -1,7 +1,7 @@
 <?php
 
 try {
-    echo 'Hello !'
+    echo 'Hello !';
     echo 'Current PHP version: ' . phpversion();
     echo '<br />';
 
